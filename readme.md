@@ -6,4 +6,4 @@
 
 [live@](https://bibin-musicplayer.netlify.app/)
 
-![img](./pic.png)
+![img](./pic1.png)
